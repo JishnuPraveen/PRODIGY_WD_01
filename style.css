@@ -1,0 +1,65 @@
+
+  
+  .navbar {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    background-size: cover;
+    width: 200lvh;
+    padding: 18px;
+    text-align: center;
+  }
+  
+  .navbar a {
+    
+    padding: 18px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: system-ui;
+    font-weight: bold;
+  }
+
+  .heading{
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    padding: 20px;
+    color: rgb(6, 14, 46);
+    margin-bottom: 95px;
+    padding-top: 5px;
+  }
+
+  .navbar a:hover {
+    background-color: rgb(80, 148, 153);
+  }
+
+  .paragraph{
+    font-size: 20px;
+    padding-top: 10px;
+    font-family: 'Roboto';
+    font-weight: normal;
+
+  }
+
+  .prodigy{
+    font-weight: bold;
+  }
+
+  .me{
+    font-weight: bold;
+    font-family: arial;
+  }
+
+  .active {
+    background-color: #fa0707;
+  }
+
+  .txt{
+    padding:30px;
+    margin-top:0px;
+    background-color: rgb(214, 222, 247);
+    height: 100vh;
+    margin-left: 0px;
+  }
+  
